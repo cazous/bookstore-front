@@ -1,0 +1,15 @@
+.container{
+    height: 85%;
+    background-color: white;
+}
+
+.sidenav{
+    background-color:white;
+}
+.sidenavItem{
+    color: black;
+}
+
+i{
+    padding-right: 0.6rem;
+}
